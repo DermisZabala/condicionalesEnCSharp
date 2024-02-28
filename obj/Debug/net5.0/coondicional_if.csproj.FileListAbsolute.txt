@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\source\repos\coondicional_if\bin\Debug\net5.0\coondicional_if.exe
+C:\Users\HP PROBOOK\source\repos\coondicional_if\bin\Debug\net5.0\coondicional_if.deps.json
+C:\Users\HP PROBOOK\source\repos\coondicional_if\bin\Debug\net5.0\coondicional_if.runtimeconfig.json
+C:\Users\HP PROBOOK\source\repos\coondicional_if\bin\Debug\net5.0\coondicional_if.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\source\repos\coondicional_if\bin\Debug\net5.0\coondicional_if.dll
+C:\Users\HP PROBOOK\source\repos\coondicional_if\bin\Debug\net5.0\coondicional_if.pdb
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\coondicional_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\coondicional_if.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\coondicional_if.AssemblyInfo.cs
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\coondicional_if.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\coondicional_if.dll
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\refint\coondicional_if.dll
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\coondicional_if.pdb
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\coondicional_if.genruntimeconfig.cache
+C:\Users\HP PROBOOK\source\repos\coondicional_if\obj\Debug\net5.0\ref\coondicional_if.dll
